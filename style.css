@@ -13,6 +13,7 @@ section{
     height: 100vh;
     background: #d7fe3a;
     overflow: hidden;
+    display: flex;
 }
 
 .sec{
@@ -30,4 +31,13 @@ section{
     font-size: 16vw;
     font-weight: 800;
     line-height: 1em;
+}
+
+.sec2{
+    background: #d7fe3a;
+}
+
+.sec2 h2{
+    color: #000;
+    font-size: 40vw;
 }
