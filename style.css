@@ -41,3 +41,13 @@ section{
     color: #000;
     font-size: 40vw;
 }
+
+#ampm{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    color: #000;
+    font-size: 6vw;
+    font-weight: 700;
+
+}
