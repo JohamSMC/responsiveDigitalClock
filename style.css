@@ -49,5 +49,18 @@ section{
     color: #000;
     font-size: 6vw;
     font-weight: 700;
+}
 
+#dot{
+    position: relative;
+    animation: animate 1s linear infinite;
+}
+
+@keyframes animate{
+    0%,15%{
+        opacity: 0;
+    }
+    15.1%,100%{
+        opacity: 1;
+    }
 }
