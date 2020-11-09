@@ -20,25 +20,25 @@ section {
   position: relative;
   width: 50%;
   height: 100%;
-  background: #000;
+  background: #1c3f87;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .sec h2 {
-  color: #fff;
+  color: #f7f7f7;
   font-size: 16vw;
   font-weight: 800;
   line-height: 1em;
 }
 
 .sec2 {
-  background: #d7fe3a;
+  background: #c20f2d;
 }
 
 .sec2 h2 {
-  color: #000;
+  color: #f7f7f7;
   font-size: 40vw;
 }
 
@@ -46,7 +46,7 @@ section {
   position: absolute;
   top: 40px;
   right: 40px;
-  color: #000;
+  color: #f7f7f7;
   font-size: 6vw;
   font-weight: 700;
 }
@@ -88,5 +88,6 @@ section {
   #ampm {
     top: 20px;
     right: 20px;
+    font-size: 15vw;
   }
 }
